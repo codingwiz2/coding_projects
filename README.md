@@ -1,2 +1,3 @@
 # coding_projects
-Code that I have written for fun
+Hello World!
+If you're seeing this that means you have stumbled upon my repository. I am glad you are. Take a look around and I hope you find something intresting!!
